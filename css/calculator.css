@@ -1,0 +1,18 @@
+.one1 {
+    background-color: gray;
+    color: white;
+    text-align: right;
+}
+
+.one {
+    background-color: green;
+    color: white;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+.two {
+    background-color: blue;
+    text-align: center;
+    border: 1px solid gray;
+}
